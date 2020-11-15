@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lat Lng</string>
+    <string name="GPSAlertDialogTitle">GPSAlertDialogTitle</string>
+    <string name="GPSAlertDialogMessage">GPSAlertDialogMessage</string>
+    <string name="action_settings">action_settings</string>
+    <string name="cancel">cancel</string>
+</resources>
